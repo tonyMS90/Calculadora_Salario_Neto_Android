@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="edad">Edad:</string>
+    <string name="numero_de_pagas">Numero de pagas:</string>
+    <string name="salario_bruto_anual">Salario bruto anual:</string>
+    <string name="calculadora_de_salario_neto">CALCULADORA DE SALARIO NETO</string>
+    <string name="grupo_profesional">Grupo profesional</string>
+    <string name="discapacidad">Discapacidad:</string>
+    <string name="grado_de_discapacidad">Grado de discapacidad</string>
+    <string name="rellenar_solo_en_caso_afirmativo">Rellenar solo en caso afirmativo</string>
+    <string name="estado_civil">Estado civil:</string>
+    <string name="numero_de_hijos">Numero de hijos:</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
